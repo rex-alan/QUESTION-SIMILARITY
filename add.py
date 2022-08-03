@@ -6,5 +6,6 @@ def sub():
     print("rex ")
 sub()
 
-
-sub()
+def mul():
+    print(a*b)
+mul()
