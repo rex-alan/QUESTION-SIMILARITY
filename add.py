@@ -1,5 +1,5 @@
-a=1
-b=2
+a=10
+b=200
 print(a+b)
 print("Welcome Java")
 def mul():
