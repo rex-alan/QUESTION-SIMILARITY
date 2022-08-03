@@ -4,7 +4,7 @@ print(a+b)
 
 def sub():
     print("rex ")
-add()
+sub()
 
 
-add()
+sub()
